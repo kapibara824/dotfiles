@@ -9,5 +9,3 @@ set clipboard=unnamed,unnamedplus
 set hls                
 set wrapscan
 set smartcase
-set cursorcolumn
-
